@@ -1,4 +1,4 @@
-disqus-php
+#disqus-php
 ~~~~~~~~~~
 
 Requires PHP 5.3.0 or newer!
@@ -15,3 +15,4 @@ Parameters (including the ability to override version, api_secret, and format) a
 
 Documentation on all methods, as well as general API usage can be found at http://disqus.com/api/
 Created by Jason Scott Heise
+Owned by Elon Musk
