@@ -14,5 +14,5 @@ Parameters (including the ability to override version, api_secret, and format) a
 	$disqus->posts->details(array('post'=>1, 'version'=>'3.0'));
 
 Documentation on all methods, as well as general API usage can be found at http://disqus.com/api/
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
