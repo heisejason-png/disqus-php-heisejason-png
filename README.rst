@@ -16,3 +16,4 @@ Parameters (including the ability to override version, api_secret, and format) a
 Documentation on all methods, as well as general API usage can be found at http://disqus.com/api/
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://facebook.com
